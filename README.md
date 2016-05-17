@@ -7,4 +7,4 @@ Date:  **7-8 June 2016**
 
 Location: **The Genome Analysis Centre (TGAC), Norwich, UK**
 
-[Further details](http://mattdrew.github.io/2016-06-07-TGAC)
+[Further details](http://TGAC.github.io/2016-06-07-TGAC)
