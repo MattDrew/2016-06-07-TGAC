@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/MattDrew/2016-06-07-TGAC"
+workshop_repo   : "https://github.com/TGAC/2016-06-07-TGAC"
 workshop_site   : "https://mattdrew.github.io/2016-06-07-TGAC/"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
