@@ -1,0 +1,165 @@
+Welcome to TGAC Software Carpentry's Bootcamp Etherpad for 7-8 June 2016!
+
+Software Carpentry Code of Conduct:http://software-carpentry.org/conduct/
+
+You are here:https://public.etherpad-mozilla.org/p/TGAC_SWC
+The workshop info is here:http://tgac.github.io/2016-06-07-TGAC/
+Bootcamp lessons are here:http://software-carpentry.org/lessons/
+
+Your instructors are: 
+Vasileios Panagiotis Lenis
+Marek Cmero
+Moritz Neeb
+    
+    Your helpers are:
+    - Martin Page, TSL
+    - Matthew Hartley, JIC
+    
+    Sticky rules! Green means you are ok, pink means you require help!
+    Please ask any questions in the chat box in the bottom right
+
+If you have any NoMachine issues, e.g. screen resolution or input language, then let us know!
+
+------------------------------------------------------------------------------------------------------------------------------
+
+http://swcarpentry.github.io/shell-novice/
+
+-> download to your nomachine: http://swcarpentry.github.io/shell-novice/shell-novice-data.zip
+
+
+
+Git
+====
+
+Maybe tomorrow in Q&A:
+a bit of details of .git/ directory
+showing some git GUIs
+collaboration recap in pairs
+how to do things faster
+branches & pull requests
+
+
+For the second session (version control), please register for an account athttps://github.com and list your username here.
+twrzes
+LukasHarnisch
+Rgoodsell
+capstafn
+Joe He
+rachelprior
+dougwyu
+github.com/wookoouk
+jubean93- conditional on excel vs python
+
+Python
+====
+
+http://swcarpentry.github.io/python-novice-inflammation/
+
+Python data:http://swcarpentry.github.io/python-novice-inflammation/python-novice-inflammation-data.zip
+
+Unix/Linux Command Reference :
+   https://ubuntudanmark.dk/filer/fwunixref.pdf
+    
+    
+    You can find the lessons of the shell here:
+       Topic 1: Using the shell to do more in less time
+http://swcarpentry.github.io/shell-novice/
+
+
+PLANNING DAY 2
+=============
+
+first two blocks: Python Inflammation
+tabular data
+plotting
+loops
+lists
+conditions
+functions
+3rd block: flexible
+Bash Shellscripting xX
+Python Shellscripting
+Python Debugging & Testing
+4th block: exercises
+
+Options/Brainstorming
+
+Python Inflammation Material http://swcarpentry.github.io/python-novice-inflammation/
+Python (Advanced) Testing Material: http://katyhuff.github.io/python-testing/
+this would cover the chapters 7-9 in more detail
+takes ~ half a day to do everything (again: we can cherry-pick).
+might be good to know, if you run continuous integration servers in your lab, but for a newcomer it's maybe overkill
+cover some follow-up of the Shell Session by talking about how to run experiments on clusters and stuff (slurm, Platform LSF, ...)
+this might be helpful for you, because that's something you might do during your PhD
+this would be without material and technical preparation so there's a risk in "getting lost in details"
+follow up of git session:
+branches & pull requests (how to manage larger projects in larger teams)
+
+
+3rd block
+
+http://swcarpentry.github.io/shell-novice/05-script.htm
+
+Python Scripting ("writing a program") (30 minutes) xxxxx
+Git Tools (10 minutes)x xx
+Unix Shell Scripting ("writini a program") (30 minutes) xxxXxxxx
+Advanced python plotting e.g. how to get other types of plots xx
+Advanced git stuff (30 minutes) - pull request xx
+Python Testing and Debugging (30-90 minutes) x
+Beer?
+
+
+4th Block - Exercises
+
+=== Bash ===
+
+Directories & Files http://swcarpentry.github.io/shell-novice/01-filedir.html )
+What does the command ls do when used with the -s and -h arguments? Tip: try typing "man ls"
+Creating Things http://swcarpentry.github.io/shell-novice/02-create.html
+Exercise: "Organizing Directories and Files"
+Pipes & Filters http://swcarpentry.github.io/shell-novice/03-pipefilter.html
+Exercises: "Pipe reading comprehension" and "Pipe construction"
+Loops http://swcarpentry.github.io/shell-novice/04-loop.html
+Exercise "Doing a Dry Run"l
+Some example bash scripts:
+   http://www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro/x864.html
+    (note these aren't software-carpentry, and may have some functions/concepts we haven't covered) 
+
+=== Git  ===
+
+Local Version Control (Chapter 1 to 4)
+"bio repository" exercise, see http://swcarpentry.github.io/git-novice/04-changes.html
+Distributed Version Control (Chapter 5 to 9)
+"A typical work session" exercise, see http://swcarpentry.github.io/git-novice/09-conflict.html
+
+=== Python ===
+
+Loading and analysing data http://swcarpentry.github.io/python-novice-inflammation/01-numpy.html
+"Thin slices"
+"Make your own plot"
+Loops http://swcarpentry.github.io/python-novice-inflammation/02-loop.html
+"Reverse a string"
+Lists http://swcarpentry.github.io/python-novice-inflammation/03-lists.html
+"Tuples and exchanges"
+Conditions http://swcarpentry.github.io/python-novice-inflammation/05-cond.html
+"What is truth?"
+Functions http://swcarpentry.github.io/python-novice-inflammation/06-func.html
+"Selecting characters from strings"
+
+
+# List of code editors (desktop apps)
+
+Atom -https://atom.io/ - free
+visual studio codehttps://code.visualstudio.com/ - free
+Jetbrainz: idea, pycharm, webstorm -https://www.jetbrains.com/ - free (for students and teachers)
+Eclipse Che -https://eclipse.org/che/ - free
+Sublime text -https://www.sublimetext.com/ - free (but nags you to buy a copy)
+
+
+Some standalone tools from UCSC Enome Browser for mac users
+
+http://hgdownload.cse.ucsc.edu/admin/exe/macOSX.x86_64/
+
+Here you can download the last pipeline that we built
+
+https://dl.dropboxusercontent.com/u/71727904/Making_a_pipe.zip
